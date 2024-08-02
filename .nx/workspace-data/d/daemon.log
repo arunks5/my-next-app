@@ -1,0 +1,713 @@
+[NX Daemon Server] - 2024-08-02T16:13:59.863Z - Started listening on: /var/folders/cv/yx8gfvpx7c77shkw8g14mq300000gn/T/e318c9e6462701f97dc5/d.sock
+[NX Daemon Server] - 2024-08-02T16:13:59.864Z - [WATCHER]: Subscribed to changes within: /Users/chellappan/Public/my-next-app (native)
+[NX Daemon Server] - 2024-08-02T16:13:59.873Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-08-02T16:13:59.873Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-08-02T16:13:59.875Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-08-02T16:13:59.876Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-08-02T16:13:59.935Z - [WATCHER]: .nx/workspace-data/d/server-process.json was created or restored
+[NX Daemon Server] - 2024-08-02T16:14:00.576Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-02T16:14:00.576Z - [REQUEST]: .nx/workspace-data/d/server-process.json
+[NX Daemon Server] - 2024-08-02T16:14:00.576Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-02T16:14:00.584Z - Time taken for 'loadNxPlugins' 537.0361669957638ms
+[NX Daemon Server] - 2024-08-02T16:14:00.585Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-08-02T16:14:00.585Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-08-02T16:14:00.585Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-08-02T16:14:00.585Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-08-02T16:14:00.586Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:00.586Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:00.586Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-02T16:14:00.586Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-08-02T16:14:00.586Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-08-02T16:14:00.586Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-08-02T16:14:00.587Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:00.587Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:00.587Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:00.587Z - Established a connection. Number of open connections: 5
+[NX Daemon Server] - 2024-08-02T16:14:00.587Z - Closed a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-08-02T16:14:00.587Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:00.587Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:00.587Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:00.637Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-02T16:14:00.637Z - [REQUEST]: .nx/workspace-data/d/server-process.json
+[NX Daemon Server] - 2024-08-02T16:14:00.637Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-02T16:14:00.642Z - Time taken for 'loadNxPlugins' 597.8601249754429ms
+[NX Daemon Server] - 2024-08-02T16:14:00.642Z - Established a connection. Number of open connections: 5
+[NX Daemon Server] - 2024-08-02T16:14:00.642Z - Established a connection. Number of open connections: 6
+[NX Daemon Server] - 2024-08-02T16:14:00.642Z - Closed a connection. Number of open connections: 5
+[NX Daemon Server] - 2024-08-02T16:14:00.643Z - Established a connection. Number of open connections: 6
+[NX Daemon Server] - 2024-08-02T16:14:00.643Z - Closed a connection. Number of open connections: 5
+[NX Daemon Server] - 2024-08-02T16:14:00.643Z - Established a connection. Number of open connections: 6
+[NX Daemon Server] - 2024-08-02T16:14:00.643Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:00.643Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:00.643Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:00.644Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:00.644Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:00.644Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:00.644Z - Established a connection. Number of open connections: 7
+[NX Daemon Server] - 2024-08-02T16:14:00.645Z - Closed a connection. Number of open connections: 6
+[NX Daemon Server] - 2024-08-02T16:14:00.645Z - Established a connection. Number of open connections: 7
+[NX Daemon Server] - 2024-08-02T16:14:00.649Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:00.649Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:00.649Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:00.771Z - Established a connection. Number of open connections: 8
+[NX Daemon Server] - 2024-08-02T16:14:00.773Z - Established a connection. Number of open connections: 9
+[NX Daemon Server] - 2024-08-02T16:14:00.774Z - Closed a connection. Number of open connections: 8
+[NX Daemon Server] - 2024-08-02T16:14:00.775Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:00.775Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:00.775Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:00.776Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:00.777Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:00.777Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-02T16:14:00.779Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-02T16:14:00.779Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-02T16:14:00.779Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:00.801Z - Established a connection. Number of open connections: 9
+[NX Daemon Server] - 2024-08-02T16:14:00.806Z - Established a connection. Number of open connections: 10
+[NX Daemon Server] - 2024-08-02T16:14:00.806Z - Closed a connection. Number of open connections: 9
+[NX Daemon Server] - 2024-08-02T16:14:00.809Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:00.810Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:00.810Z - Handled HASH_GLOB. Handling time: 2. Response time: 1.
+[NX Daemon Server] - 2024-08-02T16:14:00.815Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:00.816Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:00.816Z - Handled HASH_GLOB. Handling time: 2. Response time: 1.
+[NX Daemon Server] - 2024-08-02T16:14:00.822Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-02T16:14:00.822Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-02T16:14:00.822Z - Handled GLOB. Handling time: 1. Response time: 0.
+[33mThe CJS build of Vite's Node API is deprecated. See https://vitejs.dev/guide/troubleshooting.html#vite-cjs-node-api-deprecated for more details.[39m
+[33mThe CJS build of Vite's Node API is deprecated. See https://vitejs.dev/guide/troubleshooting.html#vite-cjs-node-api-deprecated for more details.[39m
+[NX Daemon Server] - 2024-08-02T16:14:01.343Z - [WATCHER]: .nx/workspace-data/jest-7930610538513362720.hash was created or restored
+[NX Daemon Server] - 2024-08-02T16:14:01.445Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-02T16:14:01.445Z - [REQUEST]: .nx/workspace-data/d/server-process.json,.nx/workspace-data/jest-7930610538513362720.hash
+[NX Daemon Server] - 2024-08-02T16:14:01.445Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-02T16:14:01.450Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.450Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.450Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:01.452Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.452Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.452Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:01.452Z - Time taken for 'hash changed files from watcher' 0.31220799684524536ms
+[NX Daemon Server] - 2024-08-02T16:14:01.517Z - [WATCHER]: .nx/workspace-data/jest-7930610538513362720.hash was created or restored
+[NX Daemon Server] - 2024-08-02T16:14:01.549Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.549Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.549Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:01.608Z - [WATCHER]: .nx/workspace-data/vite-10538225559886866074.hash was created or restored
+[NX Daemon Server] - 2024-08-02T16:14:01.619Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-02T16:14:01.619Z - [REQUEST]: .nx/workspace-data/d/server-process.json,.nx/workspace-data/jest-7930610538513362720.hash,.nx/workspace-data/vite-10538225559886866074.hash
+[NX Daemon Server] - 2024-08-02T16:14:01.619Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-02T16:14:01.624Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.624Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.624Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:01.625Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.625Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.625Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:01.625Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.625Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.625Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:01.625Z - Time taken for 'hash changed files from watcher' 0.14112502336502075ms
+[NX Daemon Server] - 2024-08-02T16:14:01.688Z - [WATCHER]: 2 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-08-02T16:14:01.790Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-02T16:14:01.790Z - [REQUEST]: .nx/workspace-data/d/server-process.json,.nx/workspace-data/jest-7930610538513362720.hash,.nx/workspace-data/vite-10538225559886866074.hash
+[NX Daemon Server] - 2024-08-02T16:14:01.790Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-02T16:14:01.797Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.797Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.797Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:01.798Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.798Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.798Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:01.798Z - Time taken for 'hash changed files from watcher' 0.24262499809265137ms
+[NX Daemon Server] - 2024-08-02T16:14:01.799Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.799Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.799Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:01.830Z - Time taken for 'build-project-configs' 26.066709011793137ms
+[NX Daemon Server] - 2024-08-02T16:14:01.831Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.831Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.831Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:01.832Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.832Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.832Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:01.832Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.832Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.832Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:01.833Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.833Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.833Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:01.836Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.836Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.836Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:01.836Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.836Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.836Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:01.837Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.837Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.837Z - Handled GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:01.840Z - Time taken for '@nx/vite/plugin:createDependencies' 10.78524997830391ms
+[NX Daemon Server] - 2024-08-02T16:14:01.846Z - Time taken for 'build-project-configs' 50.657833993434906ms
+[NX Daemon Server] - 2024-08-02T16:14:01.848Z - Time taken for 'build-project-configs' 55.74966698884964ms
+[NX Daemon Server] - 2024-08-02T16:14:01.850Z - Time taken for '@nx/vite/plugin:createDependencies' 2.7883749902248383ms
+[NX Daemon Server] - 2024-08-02T16:14:01.853Z - Time taken for '@nx/vite/plugin:createDependencies' 5.790916979312897ms
+[NX Daemon Server] - 2024-08-02T16:14:01.853Z - Time taken for '@nx/vite/plugin:createDependencies' 5.904332995414734ms
+[NX Daemon Server] - 2024-08-02T16:14:01.862Z - [WATCHER]: 3 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-08-02T16:14:01.921Z - [WATCHER]: 2 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-08-02T16:14:01.963Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-02T16:14:01.963Z - [REQUEST]: .nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/jest-7930610538513362720.hash,.nx/workspace-data/vite-10538225559886866074.hash,.nx/workspace-data/parsed-lock-file.json,.nx/workspace-data/lockfile.hash
+[NX Daemon Server] - 2024-08-02T16:14:01.963Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-02T16:14:01.966Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.966Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.966Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:01.966Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.966Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.966Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:01.967Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.967Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.967Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:01.967Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.967Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.967Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:01.967Z - Time taken for 'hash changed files from watcher' 0.5986669957637787ms
+[NX Daemon Server] - 2024-08-02T16:14:01.967Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.967Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.967Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:01.968Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.968Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-02T16:14:01.968Z - Handled GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:01.973Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. Failed to process project graph. Run "nx reset" to fix this. Please report the issue if you keep seeing it.
+Failed to process project graph. Run "nx reset" to fix this. Please report the issue if you keep seeing it.
+  An error occurred while processing files for the @nx/eslint/plugin plugin.
+    - apps/test-org-babel/.eslintrc.json: Failed to load config "../../.eslintrc.json" to extend from.
+  Referenced from: /Users/chellappan/Public/my-next-app/apps/test-org-babel/.eslintrc.json
+      Error: Failed to load config "../../.eslintrc.json" to extend from.
+      Referenced from: /Users/chellappan/Public/my-next-app/apps/test-org-babel/.eslintrc.json
+          at configInvalidError (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2648:9)
+          at ConfigArrayFactory._loadExtendedShareableConfig (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3279:23)
+          at ConfigArrayFactory._loadExtends (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3156:25)
+          at ConfigArrayFactory._normalizeObjectConfigDataBody (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3095:25)
+          at _normalizeObjectConfigDataBody.next (<anonymous>)
+          at ConfigArrayFactory._normalizeObjectConfigData (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3040:20)
+          at _normalizeObjectConfigData.next (<anonymous>)
+          at ConfigArrayFactory.loadInDirectory (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2886:28)
+          at CascadingConfigArrayFactory._loadConfigInAncestors (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3871:46)
+          at CascadingConfigArrayFactory.getConfigArrayForFile (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3792:18)
+    - libs/my-lib/.eslintrc.json: Failed to load config "../../.eslintrc.json" to extend from.
+  Referenced from: /Users/chellappan/Public/my-next-app/libs/my-lib/.eslintrc.json
+      Error: Failed to load config "../../.eslintrc.json" to extend from.
+      Referenced from: /Users/chellappan/Public/my-next-app/libs/my-lib/.eslintrc.json
+          at configInvalidError (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2648:9)
+          at ConfigArrayFactory._loadExtendedShareableConfig (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3279:23)
+          at ConfigArrayFactory._loadExtends (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3156:25)
+          at ConfigArrayFactory._normalizeObjectConfigDataBody (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3095:25)
+          at _normalizeObjectConfigDataBody.next (<anonymous>)
+          at ConfigArrayFactory._normalizeObjectConfigData (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3040:20)
+          at _normalizeObjectConfigData.next (<anonymous>)
+          at ConfigArrayFactory.loadInDirectory (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2886:28)
+          at CascadingConfigArrayFactory._loadConfigInAncestors (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3871:46)
+          at CascadingConfigArrayFactory._loadConfigInAncestors (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3890:20)
+[NX Daemon Server] - 2024-08-02T16:14:01.975Z - Time taken for 'total execution time for createProjectGraph()' 125.47745901346207ms
+[NX Daemon Server] - 2024-08-02T16:14:01.990Z - Time taken for 'total execution time for createProjectGraph()' 142.03824999928474ms
+[NX Daemon Server] - 2024-08-02T16:14:01.990Z - Done responding to the client null
+[NX Daemon Server] - 2024-08-02T16:14:01.990Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 2097. Response time: 17.
+[NX Daemon Server] - 2024-08-02T16:14:01.993Z - [REQUEST]: Responding to the client. handleContextFileData
+[NX Daemon Server] - 2024-08-02T16:14:01.993Z - Done responding to the client handleContextFileData
+[NX Daemon Server] - 2024-08-02T16:14:01.993Z - Handled GET_CONTEXT_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:01.994Z - Closed a connection. Number of open connections: 8
+[NX Daemon Server] - 2024-08-02T16:14:02.025Z - Time taken for 'total execution time for createProjectGraph()' 172.33599999547005ms
+[NX Daemon Server] - 2024-08-02T16:14:02.045Z - Time taken for 'build project graph' 185.48791700601578ms
+[NX Daemon Server] - 2024-08-02T16:14:02.045Z - [WATCHER]: 3 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-08-02T16:14:02.048Z - Time taken for '@nx/vite/plugin:createDependencies' 12.098334014415741ms
+[NX Daemon Server] - 2024-08-02T16:14:02.059Z - Time taken for 'total execution time for createProjectGraph()' 25.074207991361618ms
+[NX Daemon Server] - 2024-08-02T16:14:02.088Z - [WATCHER]: 2 file(s) created or restored, 0 file(s) modified, 4 file(s) deleted
+[NX Daemon Server] - 2024-08-02T16:14:02.118Z - Established a connection. Number of open connections: 9
+[NX Daemon Server] - 2024-08-02T16:14:02.118Z - Established a connection. Number of open connections: 10
+[NX Daemon Server] - 2024-08-02T16:14:02.118Z - Closed a connection. Number of open connections: 9
+[NX Daemon Server] - 2024-08-02T16:14:02.118Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-08-02T16:14:02.119Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-02T16:14:02.119Z - [REQUEST]: .nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/vite-10538225559886866074.hash,.nx/workspace-data/jest-7930610538513362720.hash,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json
+[NX Daemon Server] - 2024-08-02T16:14:02.119Z - [REQUEST]: .nx/workspace-data/file-map.json~49bfbc17,.nx/workspace-data/file-map.json~2c1c937d,.nx/workspace-data/project-graph.json~2c1c937d,.nx/workspace-data/project-graph.json~49bfbc17
+[NX Daemon Server] - 2024-08-02T16:14:02.122Z - Time taken for 'hash changed files from watcher' 0.34325000643730164ms
+[NX Daemon Server] - 2024-08-02T16:14:02.122Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.122Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.122Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:02.123Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.123Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.123Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:02.123Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.123Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.123Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:02.124Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.124Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.124Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:02.124Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.124Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.124Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:02.124Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.124Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.124Z - Handled GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:02.130Z - Time taken for 'build-project-configs' 8.81641599535942ms
+[NX Daemon Server] - 2024-08-02T16:14:02.133Z - Time taken for '@nx/vite/plugin:createDependencies' 4.106374979019165ms
+[NX Daemon Server] - 2024-08-02T16:14:02.141Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. Failed to process project graph. Run "nx reset" to fix this. Please report the issue if you keep seeing it.
+Failed to process project graph. Run "nx reset" to fix this. Please report the issue if you keep seeing it.
+  An error occurred while processing files for the @nx/eslint/plugin plugin.
+    - apps/test-org-babel/.eslintrc.json: Failed to load config "../../.eslintrc.json" to extend from.
+  Referenced from: /Users/chellappan/Public/my-next-app/apps/test-org-babel/.eslintrc.json
+      Error: Failed to load config "../../.eslintrc.json" to extend from.
+      Referenced from: /Users/chellappan/Public/my-next-app/apps/test-org-babel/.eslintrc.json
+          at configInvalidError (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2648:9)
+          at ConfigArrayFactory._loadExtendedShareableConfig (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3279:23)
+          at ConfigArrayFactory._loadExtends (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3156:25)
+          at ConfigArrayFactory._normalizeObjectConfigDataBody (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3095:25)
+          at _normalizeObjectConfigDataBody.next (<anonymous>)
+          at ConfigArrayFactory._normalizeObjectConfigData (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3040:20)
+          at _normalizeObjectConfigData.next (<anonymous>)
+          at ConfigArrayFactory.loadInDirectory (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2886:28)
+          at CascadingConfigArrayFactory._loadConfigInAncestors (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3871:46)
+          at CascadingConfigArrayFactory.getConfigArrayForFile (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3792:18)
+    - libs/my-lib/.eslintrc.json: Failed to load config "../../.eslintrc.json" to extend from.
+  Referenced from: /Users/chellappan/Public/my-next-app/libs/my-lib/.eslintrc.json
+      Error: Failed to load config "../../.eslintrc.json" to extend from.
+      Referenced from: /Users/chellappan/Public/my-next-app/libs/my-lib/.eslintrc.json
+          at configInvalidError (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2648:9)
+          at ConfigArrayFactory._loadExtendedShareableConfig (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3279:23)
+          at ConfigArrayFactory._loadExtends (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3156:25)
+          at ConfigArrayFactory._normalizeObjectConfigDataBody (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3095:25)
+          at _normalizeObjectConfigDataBody.next (<anonymous>)
+          at ConfigArrayFactory._normalizeObjectConfigData (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3040:20)
+          at _normalizeObjectConfigData.next (<anonymous>)
+          at ConfigArrayFactory.loadInDirectory (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2886:28)
+          at CascadingConfigArrayFactory._loadConfigInAncestors (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3871:46)
+          at CascadingConfigArrayFactory._loadConfigInAncestors (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3890:20)
+[NX Daemon Server] - 2024-08-02T16:14:02.143Z - Time taken for 'total execution time for createProjectGraph()' 11.670124977827072ms
+[NX Daemon Server] - 2024-08-02T16:14:02.144Z - Done responding to the client null
+[NX Daemon Server] - 2024-08-02T16:14:02.144Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 23. Response time: 3.
+[NX Daemon Server] - 2024-08-02T16:14:02.146Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-08-02T16:14:02.146Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. Failed to process project graph. Run "nx reset" to fix this. Please report the issue if you keep seeing it.
+Failed to process project graph. Run "nx reset" to fix this. Please report the issue if you keep seeing it.
+  An error occurred while processing files for the @nx/eslint/plugin plugin.
+    - apps/test-org-babel/.eslintrc.json: Failed to load config "../../.eslintrc.json" to extend from.
+  Referenced from: /Users/chellappan/Public/my-next-app/apps/test-org-babel/.eslintrc.json
+      Error: Failed to load config "../../.eslintrc.json" to extend from.
+      Referenced from: /Users/chellappan/Public/my-next-app/apps/test-org-babel/.eslintrc.json
+          at configInvalidError (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2648:9)
+          at ConfigArrayFactory._loadExtendedShareableConfig (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3279:23)
+          at ConfigArrayFactory._loadExtends (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3156:25)
+          at ConfigArrayFactory._normalizeObjectConfigDataBody (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3095:25)
+          at _normalizeObjectConfigDataBody.next (<anonymous>)
+          at ConfigArrayFactory._normalizeObjectConfigData (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3040:20)
+          at _normalizeObjectConfigData.next (<anonymous>)
+          at ConfigArrayFactory.loadInDirectory (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2886:28)
+          at CascadingConfigArrayFactory._loadConfigInAncestors (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3871:46)
+          at CascadingConfigArrayFactory.getConfigArrayForFile (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3792:18)
+    - libs/my-lib/.eslintrc.json: Failed to load config "../../.eslintrc.json" to extend from.
+  Referenced from: /Users/chellappan/Public/my-next-app/libs/my-lib/.eslintrc.json
+      Error: Failed to load config "../../.eslintrc.json" to extend from.
+      Referenced from: /Users/chellappan/Public/my-next-app/libs/my-lib/.eslintrc.json
+          at configInvalidError (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2648:9)
+          at ConfigArrayFactory._loadExtendedShareableConfig (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3279:23)
+          at ConfigArrayFactory._loadExtends (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3156:25)
+          at ConfigArrayFactory._normalizeObjectConfigDataBody (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3095:25)
+          at _normalizeObjectConfigDataBody.next (<anonymous>)
+          at ConfigArrayFactory._normalizeObjectConfigData (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3040:20)
+          at _normalizeObjectConfigData.next (<anonymous>)
+          at ConfigArrayFactory.loadInDirectory (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2886:28)
+          at CascadingConfigArrayFactory._loadConfigInAncestors (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3871:46)
+          at CascadingConfigArrayFactory._loadConfigInAncestors (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3890:20)
+[NX Daemon Server] - 2024-08-02T16:14:02.150Z - Done responding to the client null
+[NX Daemon Server] - 2024-08-02T16:14:02.151Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 5.
+[NX Daemon Server] - 2024-08-02T16:14:02.153Z - Established a connection. Number of open connections: 10
+[NX Daemon Server] - 2024-08-02T16:14:02.187Z - [WATCHER]: 0 file(s) created or restored, 3 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-08-02T16:14:02.187Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-08-02T16:14:02.187Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-08-02T16:14:02.187Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:02.187Z - Time taken for 'changed-projects' 0.036625027656555176ms
+[NX Daemon Server] - 2024-08-02T16:14:02.289Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-02T16:14:02.289Z - [REQUEST]: .nx/workspace-data/jest-7930610538513362720.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/vite-10538225559886866074.hash
+[NX Daemon Server] - 2024-08-02T16:14:02.289Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-02T16:14:02.295Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.295Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.295Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:02.295Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.295Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.295Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:02.298Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.298Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.298Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:02.299Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.299Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.299Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:02.299Z - Time taken for 'hash changed files from watcher' 0.1870419979095459ms
+[NX Daemon Server] - 2024-08-02T16:14:02.299Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.299Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.299Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:02.300Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.300Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.300Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:02.309Z - Time taken for 'build-project-configs' 14.712457984685898ms
+[NX Daemon Server] - 2024-08-02T16:14:02.312Z - Time taken for '@nx/vite/plugin:createDependencies' 5.999208986759186ms
+[NX Daemon Server] - 2024-08-02T16:14:02.321Z - Time taken for 'total execution time for createProjectGraph()' 15.015084028244019ms
+[NX Daemon Server] - 2024-08-02T16:14:02.359Z - [WATCHER]: 0 file(s) created or restored, 3 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-08-02T16:14:02.359Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-08-02T16:14:02.360Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-08-02T16:14:02.360Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-02T16:14:02.360Z - Time taken for 'changed-projects' 0.02837499976158142ms
+[NX Daemon Server] - 2024-08-02T16:14:02.562Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-02T16:14:02.562Z - [REQUEST]: .nx/workspace-data/vite-10538225559886866074.hash,.nx/workspace-data/jest-7930610538513362720.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-08-02T16:14:02.562Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-02T16:14:02.572Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.573Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.573Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-02T16:14:02.574Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.574Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.574Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:02.575Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.575Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.575Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:02.576Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.576Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.576Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:02.576Z - Time taken for 'hash changed files from watcher' 0.6679159998893738ms
+[NX Daemon Server] - 2024-08-02T16:14:02.577Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.577Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.577Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:02.578Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.578Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-02T16:14:02.578Z - Handled GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:02.593Z - Time taken for 'build-project-configs' 23.3581660091877ms
+[NX Daemon Server] - 2024-08-02T16:14:02.597Z - Time taken for '@nx/vite/plugin:createDependencies' 8.375458985567093ms
+[NX Daemon Server] - 2024-08-02T16:14:02.611Z - Time taken for 'total execution time for createProjectGraph()' 21.47970899939537ms
+[NX Daemon Server] - 2024-08-02T16:14:02.638Z - [WATCHER]: 0 file(s) created or restored, 3 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-08-02T16:14:02.639Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-08-02T16:14:02.639Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-08-02T16:14:02.639Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:02.639Z - Time taken for 'changed-projects' 0.06679201126098633ms
+[NX Daemon Server] - 2024-08-02T16:14:03.040Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-02T16:14:03.041Z - [REQUEST]: .nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/vite-10538225559886866074.hash,.nx/workspace-data/jest-7930610538513362720.hash
+[NX Daemon Server] - 2024-08-02T16:14:03.041Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-02T16:14:03.047Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:03.047Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:03.047Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:03.048Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:03.048Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:03.048Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:03.050Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:03.050Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:03.050Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:03.051Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:03.052Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:03.052Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-02T16:14:03.052Z - Time taken for 'hash changed files from watcher' 0.34095799922943115ms
+[NX Daemon Server] - 2024-08-02T16:14:03.053Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:03.053Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:03.053Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:03.054Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-02T16:14:03.054Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-02T16:14:03.054Z - Handled GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:03.065Z - Time taken for 'build-project-configs' 18.872417002916336ms
+[NX Daemon Server] - 2024-08-02T16:14:03.069Z - Time taken for '@nx/vite/plugin:createDependencies' 7.1329160034656525ms
+[NX Daemon Server] - 2024-08-02T16:14:03.080Z - Time taken for 'total execution time for createProjectGraph()' 18.041792005300522ms
+[NX Daemon Server] - 2024-08-02T16:14:03.113Z - [WATCHER]: 0 file(s) created or restored, 3 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-08-02T16:14:03.113Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-08-02T16:14:03.113Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-08-02T16:14:03.113Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:03.113Z - Time taken for 'changed-projects' 0.03416702151298523ms
+[NX Daemon Server] - 2024-08-02T16:14:03.915Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-02T16:14:03.915Z - [REQUEST]: .nx/workspace-data/jest-7930610538513362720.hash,.nx/workspace-data/vite-10538225559886866074.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-08-02T16:14:03.915Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-02T16:14:03.920Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:03.920Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:03.920Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:03.920Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:03.920Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:03.920Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:03.921Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:03.921Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:03.921Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:03.922Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:03.922Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:03.922Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:03.922Z - Time taken for 'hash changed files from watcher' 0.17487499117851257ms
+[NX Daemon Server] - 2024-08-02T16:14:03.923Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:03.923Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:03.923Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:03.924Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-02T16:14:03.924Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-02T16:14:03.924Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:03.934Z - Time taken for 'build-project-configs' 14.069584012031555ms
+[NX Daemon Server] - 2024-08-02T16:14:03.936Z - Time taken for '@nx/vite/plugin:createDependencies' 5.36354199051857ms
+[NX Daemon Server] - 2024-08-02T16:14:03.945Z - Time taken for 'total execution time for createProjectGraph()' 14.028583973646164ms
+[NX Daemon Server] - 2024-08-02T16:14:03.984Z - [WATCHER]: 0 file(s) created or restored, 3 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-08-02T16:14:03.985Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-08-02T16:14:03.985Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-08-02T16:14:03.985Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:03.985Z - Time taken for 'changed-projects' 0.02266600728034973ms
+[NX Daemon Server] - 2024-08-02T16:14:05.586Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-02T16:14:05.586Z - [REQUEST]: .nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/vite-10538225559886866074.hash,.nx/workspace-data/jest-7930610538513362720.hash
+[NX Daemon Server] - 2024-08-02T16:14:05.586Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-02T16:14:05.592Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:05.592Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:05.592Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:05.593Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:05.593Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:05.593Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:05.594Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:05.594Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:05.594Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:05.595Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:05.595Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:05.595Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:05.595Z - Time taken for 'hash changed files from watcher' 0.23329100012779236ms
+[NX Daemon Server] - 2024-08-02T16:14:05.596Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:05.596Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:05.596Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:05.597Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-02T16:14:05.597Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-02T16:14:05.597Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:05.605Z - Time taken for 'build-project-configs' 14.17162498831749ms
+[NX Daemon Server] - 2024-08-02T16:14:05.608Z - Time taken for '@nx/vite/plugin:createDependencies' 5.910375028848648ms
+[NX Daemon Server] - 2024-08-02T16:14:05.617Z - Time taken for 'total execution time for createProjectGraph()' 14.280041992664337ms
+[NX Daemon Server] - 2024-08-02T16:14:05.656Z - [WATCHER]: 0 file(s) created or restored, 3 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-08-02T16:14:05.656Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-08-02T16:14:05.656Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-08-02T16:14:05.657Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-02T16:14:05.657Z - Time taken for 'changed-projects' 0.01675000786781311ms
+[NX Daemon Server] - 2024-08-02T16:14:08.859Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-02T16:14:08.859Z - [REQUEST]: .nx/workspace-data/vite-10538225559886866074.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/jest-7930610538513362720.hash
+[NX Daemon Server] - 2024-08-02T16:14:08.859Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-02T16:14:08.871Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:08.871Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:08.872Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-02T16:14:08.872Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:08.873Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:08.873Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-02T16:14:08.874Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:08.874Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:08.874Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:08.875Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:08.875Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:08.875Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:08.875Z - Time taken for 'hash changed files from watcher' 0.4988340139389038ms
+[NX Daemon Server] - 2024-08-02T16:14:08.876Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:08.876Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:08.876Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:08.877Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-02T16:14:08.877Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-02T16:14:08.877Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:08.892Z - Time taken for 'build-project-configs' 25.247166991233826ms
+[NX Daemon Server] - 2024-08-02T16:14:08.896Z - Time taken for '@nx/vite/plugin:createDependencies' 7.632416993379593ms
+[NX Daemon Server] - 2024-08-02T16:14:08.909Z - Time taken for 'total execution time for createProjectGraph()' 20.119708985090256ms
+[NX Daemon Server] - 2024-08-02T16:14:08.937Z - [WATCHER]: 0 file(s) created or restored, 3 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-08-02T16:14:08.937Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-08-02T16:14:08.937Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-08-02T16:14:08.937Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:08.937Z - Time taken for 'changed-projects' 0.02254199981689453ms
+[NX Daemon Server] - 2024-08-02T16:14:15.340Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-02T16:14:15.340Z - [REQUEST]: .nx/workspace-data/jest-7930610538513362720.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/vite-10538225559886866074.hash
+[NX Daemon Server] - 2024-08-02T16:14:15.341Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-02T16:14:15.351Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:15.351Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:15.351Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:15.352Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:15.352Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:15.352Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:15.354Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:15.354Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:15.354Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:15.356Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:15.356Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:15.356Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:15.356Z - Time taken for 'hash changed files from watcher' 0.5819169878959656ms
+[NX Daemon Server] - 2024-08-02T16:14:15.357Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:15.357Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:15.357Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:15.359Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-02T16:14:15.359Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-02T16:14:15.359Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:15.373Z - Time taken for 'build-project-configs' 23.389332979917526ms
+[NX Daemon Server] - 2024-08-02T16:14:15.376Z - Time taken for '@nx/vite/plugin:createDependencies' 7.916666001081467ms
+[NX Daemon Server] - 2024-08-02T16:14:15.389Z - Time taken for 'total execution time for createProjectGraph()' 20.41075000166893ms
+[NX Daemon Server] - 2024-08-02T16:14:15.417Z - [WATCHER]: 0 file(s) created or restored, 3 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-08-02T16:14:15.417Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-08-02T16:14:15.417Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-08-02T16:14:15.417Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:15.417Z - Time taken for 'changed-projects' 0.03512498736381531ms
+[NX Daemon Server] - 2024-08-02T16:14:21.819Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-02T16:14:21.821Z - [REQUEST]: .nx/workspace-data/jest-7930610538513362720.hash,.nx/workspace-data/vite-10538225559886866074.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-08-02T16:14:21.821Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-02T16:14:21.831Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:21.831Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:21.831Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:21.832Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:21.833Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:21.833Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-02T16:14:21.834Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:21.834Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:21.834Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:21.834Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:21.835Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:21.835Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-02T16:14:21.835Z - Time taken for 'hash changed files from watcher' 0.42683300375938416ms
+[NX Daemon Server] - 2024-08-02T16:14:21.836Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:21.836Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:21.836Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:21.837Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-02T16:14:21.837Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-02T16:14:21.837Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:21.855Z - Time taken for 'build-project-configs' 25.7416670024395ms
+[NX Daemon Server] - 2024-08-02T16:14:21.858Z - Time taken for '@nx/vite/plugin:createDependencies' 7.850874990224838ms
+[NX Daemon Server] - 2024-08-02T16:14:21.872Z - Time taken for 'total execution time for createProjectGraph()' 21.692582994699478ms
+[NX Daemon Server] - 2024-08-02T16:14:21.897Z - [WATCHER]: 0 file(s) created or restored, 3 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-08-02T16:14:21.897Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-08-02T16:14:21.897Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-08-02T16:14:21.897Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:21.898Z - Time taken for 'changed-projects' 0.019291996955871582ms
+[NX Daemon Server] - 2024-08-02T16:14:23.563Z - [WATCHER]: .gitignore was created or restored
+[NX Daemon Server] - 2024-08-02T16:14:23.563Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-08-02T16:14:23.566Z - [WATCHER]: Stopping the watcher for /Users/chellappan/Public/my-next-app (sources)
+[NX Daemon Server] - 2024-08-02T16:14:23.567Z - [WATCHER]: Stopping the watcher for /Users/chellappan/Public/my-next-app (outputs)
+[NX Daemon Server] - 2024-08-02T16:14:23.567Z - Server stopped because: "Stopping the daemon the set of ignored files changed (native)"
+[NX Daemon Server] - 2024-08-02T16:14:23.832Z - Started listening on: /var/folders/cv/yx8gfvpx7c77shkw8g14mq300000gn/T/e318c9e6462701f97dc5/d.sock
+[NX Daemon Server] - 2024-08-02T16:14:23.833Z - [WATCHER]: Subscribed to changes within: /Users/chellappan/Public/my-next-app (native)
+[NX Daemon Server] - 2024-08-02T16:14:23.836Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-08-02T16:14:23.837Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-08-02T16:14:23.837Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-08-02T16:14:23.838Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-08-02T16:14:23.894Z - [WATCHER]: .nx/workspace-data/d/server-process.json was created or restored
+[NX Daemon Server] - 2024-08-02T16:14:24.241Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-02T16:14:24.241Z - [REQUEST]: .nx/workspace-data/d/server-process.json
+[NX Daemon Server] - 2024-08-02T16:14:24.241Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-02T16:14:24.254Z - Time taken for 'loadNxPlugins' 246.41566601395607ms
+[NX Daemon Server] - 2024-08-02T16:14:24.255Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-08-02T16:14:24.256Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-08-02T16:14:24.257Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-08-02T16:14:24.257Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-08-02T16:14:24.258Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:24.258Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:24.258Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:24.258Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-08-02T16:14:24.258Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-08-02T16:14:24.258Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-08-02T16:14:24.258Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-08-02T16:14:24.258Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-08-02T16:14:24.258Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:24.258Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:24.258Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:24.259Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:24.259Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:24.259Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:24.348Z - Established a connection. Number of open connections: 5
+[NX Daemon Server] - 2024-08-02T16:14:24.351Z - Closed a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-08-02T16:14:24.351Z - Established a connection. Number of open connections: 5
+[NX Daemon Server] - 2024-08-02T16:14:24.352Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:24.352Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:24.353Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-02T16:14:24.355Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:24.355Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:24.355Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:24.358Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-02T16:14:24.358Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-02T16:14:24.358Z - Handled GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:24.376Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-08-02T16:14:24.376Z - [REQUEST]: .nx/workspace-data/d/server-process.json
+[NX Daemon Server] - 2024-08-02T16:14:24.376Z - [REQUEST]: 
+[NX Daemon Server] - 2024-08-02T16:14:24.381Z - Time taken for 'loadNxPlugins' 381.54945799708366ms
+[NX Daemon Server] - 2024-08-02T16:14:24.381Z - Established a connection. Number of open connections: 6
+[NX Daemon Server] - 2024-08-02T16:14:24.381Z - Established a connection. Number of open connections: 7
+[NX Daemon Server] - 2024-08-02T16:14:24.381Z - Closed a connection. Number of open connections: 6
+[NX Daemon Server] - 2024-08-02T16:14:24.381Z - Established a connection. Number of open connections: 7
+[NX Daemon Server] - 2024-08-02T16:14:24.381Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:24.382Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:24.382Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-02T16:14:24.382Z - Established a connection. Number of open connections: 8
+[NX Daemon Server] - 2024-08-02T16:14:24.382Z - Closed a connection. Number of open connections: 7
+[NX Daemon Server] - 2024-08-02T16:14:24.382Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:24.382Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:24.382Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:24.383Z - Established a connection. Number of open connections: 8
+[NX Daemon Server] - 2024-08-02T16:14:24.384Z - Established a connection. Number of open connections: 9
+[NX Daemon Server] - 2024-08-02T16:14:24.384Z - Closed a connection. Number of open connections: 8
+[NX Daemon Server] - 2024-08-02T16:14:24.385Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:24.385Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:24.385Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:24.451Z - Established a connection. Number of open connections: 9
+[NX Daemon Server] - 2024-08-02T16:14:24.453Z - Closed a connection. Number of open connections: 8
+[NX Daemon Server] - 2024-08-02T16:14:24.453Z - Established a connection. Number of open connections: 9
+[NX Daemon Server] - 2024-08-02T16:14:24.455Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:24.455Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:24.455Z - Handled HASH_GLOB. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-08-02T16:14:24.456Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:24.456Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:14:24.456Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:24.457Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-02T16:14:24.457Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-02T16:14:24.457Z - Handled GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:14:24.935Z - Time taken for 'build-project-configs' 547.160874992609ms
+[NX Daemon Server] - 2024-08-02T16:14:24.938Z - Time taken for '@nx/vite/plugin:createDependencies' 4.68087500333786ms
+[NX Daemon Server] - 2024-08-02T16:14:24.947Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. Failed to process project graph. Run "nx reset" to fix this. Please report the issue if you keep seeing it.
+Failed to process project graph. Run "nx reset" to fix this. Please report the issue if you keep seeing it.
+  An error occurred while processing files for the @nx/eslint/plugin plugin.
+    - apps/test-org-babel/.eslintrc.json: Failed to load config "../../.eslintrc.json" to extend from.
+  Referenced from: /Users/chellappan/Public/my-next-app/apps/test-org-babel/.eslintrc.json
+      Error: Failed to load config "../../.eslintrc.json" to extend from.
+      Referenced from: /Users/chellappan/Public/my-next-app/apps/test-org-babel/.eslintrc.json
+          at configInvalidError (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2648:9)
+          at ConfigArrayFactory._loadExtendedShareableConfig (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3279:23)
+          at ConfigArrayFactory._loadExtends (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3156:25)
+          at ConfigArrayFactory._normalizeObjectConfigDataBody (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3095:25)
+          at _normalizeObjectConfigDataBody.next (<anonymous>)
+          at ConfigArrayFactory._normalizeObjectConfigData (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3040:20)
+          at _normalizeObjectConfigData.next (<anonymous>)
+          at ConfigArrayFactory.loadInDirectory (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2886:28)
+          at CascadingConfigArrayFactory._loadConfigInAncestors (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3871:46)
+          at CascadingConfigArrayFactory.getConfigArrayForFile (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3792:18)
+    - libs/my-lib/.eslintrc.json: Failed to load config "../../.eslintrc.json" to extend from.
+  Referenced from: /Users/chellappan/Public/my-next-app/libs/my-lib/.eslintrc.json
+      Error: Failed to load config "../../.eslintrc.json" to extend from.
+      Referenced from: /Users/chellappan/Public/my-next-app/libs/my-lib/.eslintrc.json
+          at configInvalidError (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2648:9)
+          at ConfigArrayFactory._loadExtendedShareableConfig (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3279:23)
+          at ConfigArrayFactory._loadExtends (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3156:25)
+          at ConfigArrayFactory._normalizeObjectConfigDataBody (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3095:25)
+          at _normalizeObjectConfigDataBody.next (<anonymous>)
+          at ConfigArrayFactory._normalizeObjectConfigData (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3040:20)
+          at _normalizeObjectConfigData.next (<anonymous>)
+          at ConfigArrayFactory.loadInDirectory (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2886:28)
+          at CascadingConfigArrayFactory._loadConfigInAncestors (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3871:46)
+          at CascadingConfigArrayFactory._loadConfigInAncestors (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3890:20)
+[NX Daemon Server] - 2024-08-02T16:14:24.949Z - Time taken for 'total execution time for createProjectGraph()' 14.752833008766174ms
+[NX Daemon Server] - 2024-08-02T16:14:24.950Z - Done responding to the client null
+[NX Daemon Server] - 2024-08-02T16:14:24.950Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1110. Response time: 3.
+[NX Daemon Server] - 2024-08-02T16:14:24.952Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-08-02T16:14:24.998Z - Time taken for 'build-project-configs' 617.2175000011921ms
+[NX Daemon Server] - 2024-08-02T16:14:24.999Z - Time taken for '@nx/vite/plugin:createDependencies' 4.453625023365021ms
+[NX Daemon Server] - 2024-08-02T16:14:25.011Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. Failed to process project graph. Run "nx reset" to fix this. Please report the issue if you keep seeing it.
+Failed to process project graph. Run "nx reset" to fix this. Please report the issue if you keep seeing it.
+  An error occurred while processing files for the @nx/eslint/plugin plugin.
+    - apps/test-org-babel/.eslintrc.json: Failed to load config "../../.eslintrc.json" to extend from.
+  Referenced from: /Users/chellappan/Public/my-next-app/apps/test-org-babel/.eslintrc.json
+      Error: Failed to load config "../../.eslintrc.json" to extend from.
+      Referenced from: /Users/chellappan/Public/my-next-app/apps/test-org-babel/.eslintrc.json
+          at configInvalidError (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2648:9)
+          at ConfigArrayFactory._loadExtendedShareableConfig (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3279:23)
+          at ConfigArrayFactory._loadExtends (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3156:25)
+          at ConfigArrayFactory._normalizeObjectConfigDataBody (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3095:25)
+          at _normalizeObjectConfigDataBody.next (<anonymous>)
+          at ConfigArrayFactory._normalizeObjectConfigData (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3040:20)
+          at _normalizeObjectConfigData.next (<anonymous>)
+          at ConfigArrayFactory.loadInDirectory (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2886:28)
+          at CascadingConfigArrayFactory._loadConfigInAncestors (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3871:46)
+          at CascadingConfigArrayFactory.getConfigArrayForFile (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3792:18)
+    - libs/my-lib/.eslintrc.json: Failed to load config "../../.eslintrc.json" to extend from.
+  Referenced from: /Users/chellappan/Public/my-next-app/libs/my-lib/.eslintrc.json
+      Error: Failed to load config "../../.eslintrc.json" to extend from.
+      Referenced from: /Users/chellappan/Public/my-next-app/libs/my-lib/.eslintrc.json
+          at configInvalidError (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2648:9)
+          at ConfigArrayFactory._loadExtendedShareableConfig (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3279:23)
+          at ConfigArrayFactory._loadExtends (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3156:25)
+          at ConfigArrayFactory._normalizeObjectConfigDataBody (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3095:25)
+          at _normalizeObjectConfigDataBody.next (<anonymous>)
+          at ConfigArrayFactory._normalizeObjectConfigData (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3040:20)
+          at _normalizeObjectConfigData.next (<anonymous>)
+          at ConfigArrayFactory.loadInDirectory (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:2886:28)
+          at CascadingConfigArrayFactory._loadConfigInAncestors (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3871:46)
+          at CascadingConfigArrayFactory._loadConfigInAncestors (/Users/chellappan/Public/my-next-app/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3890:20)
+[NX Daemon Server] - 2024-08-02T16:14:25.013Z - Time taken for 'total execution time for createProjectGraph()' 15.626999974250793ms
+[NX Daemon Server] - 2024-08-02T16:14:25.015Z - Done responding to the client null
+[NX Daemon Server] - 2024-08-02T16:14:25.016Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 59. Response time: 5.
+[NX Daemon Server] - 2024-08-02T16:14:25.018Z - Established a connection. Number of open connections: 10
