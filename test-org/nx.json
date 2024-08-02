@@ -35,6 +35,16 @@
       "options": {
         "targetName": "lint"
       }
+    },
+    {
+      "plugin": "@nx/vite/plugin",
+      "options": {
+        "buildTargetName": "build",
+        "testTargetName": "test",
+        "serveTargetName": "serve",
+        "previewTargetName": "preview",
+        "serveStaticTargetName": "serve-static"
+      }
     }
   ],
   "generators": {
@@ -43,6 +53,13 @@
         "style": "css",
         "linter": "eslint"
       }
+    }
+  },
+  "targetDefaults": {
+    "@nx/vite:build": {
+      "cache": true,
+      "dependsOn": ["^build"],
+      "inputs": ["production", "^production"]
     }
   }
 }
