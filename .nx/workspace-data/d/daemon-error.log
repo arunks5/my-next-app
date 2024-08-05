@@ -1,0 +1,26 @@
+Daemon process terminated and closed the connection
+
+Messages from the log:
+[NX Daemon Server] - 2024-08-02T16:20:52.823Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-08-02T16:20:52.824Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:20:52.824Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:20:52.824Z - Handled HASH_GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:20:52.824Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-08-02T16:20:52.824Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:20:52.824Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:20:52.824Z - Handled HASH_GLOB. Handling time: 4. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:20:52.824Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:20:52.824Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-08-02T16:20:52.824Z - Handled HASH_GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:20:52.824Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-08-02T16:20:52.826Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-08-02T16:20:52.826Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-08-02T16:20:52.826Z - Handled GLOB. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-08-02T16:20:52.860Z - [WATCHER]: .nx/workspace-data/d/server-process.json was modified
+[NX Daemon Server] - 2024-08-02T16:20:52.860Z - [WATCHER]: Stopping the watcher for /Users/chellappan/Public/my-next-app (sources)
+[NX Daemon Server] - 2024-08-02T16:20:52.861Z - [WATCHER]: Stopping the watcher for /Users/chellappan/Public/my-next-app (outputs)
+[NX Daemon Server] - 2024-08-02T16:20:52.861Z - Server stopped because: "this process is no longer the current daemon (native)"
+
+
+
+More information: /Users/chellappan/Public/my-next-app/.nx/workspace-data/d/daemon.log
