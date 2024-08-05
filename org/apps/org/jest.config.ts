@@ -15,7 +15,9 @@ export default {
   moduleFileExtensions: ['ts', 'tsx', 'js', 'jsx', 'json', 'node'],
   transformIgnorePatterns: [`/node_modules/(?!${esModules})`],
   transform: {
-    '^.+\\.(ts|tsx)$': 'ts-jest',
+    // '^.+\\.(ts|tsx)$': 'ts-jest',
+    '^.+\\.(ts|tsx)$':[ 'babel-jest',{"presets": ["@nrwl/next/babel"]}]
+
   },
   // testMatch: ['**/?(*.)+(spec|test).tsx'],
   coverageDirectory: '../../coverage/apps/org',

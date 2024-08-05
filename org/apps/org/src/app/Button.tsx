@@ -1,9 +1,10 @@
 import React from 'react';
+import { GreetingComponent } from '@org/my-lib';
 
 const Button = ({ label, onClick }:{label?:string,onClick?:()=>void}) => (
-  <button onClick={onClick}>
+  <GreetingComponent onClick={onClick}>
     {label}
-  </button>
+    </GreetingComponent>
 );
 
 export default Button;

@@ -5,6 +5,7 @@ import { GreetingComponent } from '@org/my-lib';
 
 
 export default function Index() {
+  const clickHandler = ()=>{};
   /*
    * Replace the elements below with your own.
    *
@@ -15,7 +16,7 @@ export default function Index() {
       <div className="wrapper">
         <div className="container">
           <Button></Button>
-<GreetingComponent/>
+<GreetingComponent onClick={clickHandler}/>
           <div id="welcome">
             <h1>
               <span> Hello there, </span>
