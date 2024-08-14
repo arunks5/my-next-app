@@ -1,2 +1,2 @@
-export * from './lib/GreetingCmpt';
-export * from './lib/my-lib';
+export * from './lib/MyButton';
+export * from './lib/button';

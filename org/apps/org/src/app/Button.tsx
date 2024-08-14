@@ -1,10 +1,10 @@
 import React from 'react';
-import { GreetingComponent } from '@org/my-lib';
+import { Button as MyButton } from '@org/my-lib';
 
-const Button = ({ label, onClick }:{label?:string,onClick?:()=>void}) => (
-  <GreetingComponent onClick={onClick}>
-    {label}
-    </GreetingComponent>
+const Button = ({ label, onClick,disabled }:{disabled?:boolean,label?:string,onClick?:()=>void}) => (
+    <MyButton disabled={disabled} onClick={onClick}>
+      {label}
+    </MyButton>
 );
 
 export default Button;
