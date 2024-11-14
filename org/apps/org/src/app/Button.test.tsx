@@ -1,23 +1,16 @@
 
-import React from 'react';
-import { render, screen, fireEvent } from '@testing-library/react';
+import { render, screen } from '@testing-library/react';
 import '@testing-library/jest-dom';
-import Button from './Button';
-import { SimpleButton } from '@org/my-lib';
+import { Button as MyButton, SimpleButton } from '@org/my-lib';
 
 
-test('renders button with label', () => {
-  render(<Button label="Click me" disabled={true} />);
-  const buttonElement:SimpleButton = screen.getByText(/click me/i);
+test('renders button with label', async () => {
+  render(<MyButton disabled={true} name={'Lit Element'} data-testid="search-pagination">
+    {'Render'}
+  </MyButton>);
+  const buttonElement:SimpleButton =       screen.getByTestId('search-pagination');
   expect(buttonElement).toBeInTheDocument();
+  await buttonElement.updateComplete;
+  expect(buttonElement).toHaveProperty('name','Lit Element');
   expect(buttonElement.disabled).toBe(true);
 });
-
-
-// test('calls onClick handler when clicked', () => {
-//   const handleClick = jest.fn();
-//   render(<Button label="Click me" onClick={handleClick} />);
-//   const buttonElement = screen.getByText(/click me/i);
-//   fireEvent.click(buttonElement);
-//   expect(handleClick).toHaveBeenCalledTimes(1);
-// });
